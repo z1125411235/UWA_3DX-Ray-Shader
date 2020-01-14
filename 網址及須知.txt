@@ -1,0 +1,8 @@
+版本:Unity 2018.4.14f1 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5e027f928bab6aaf02b1cc70
+
+官方Github網址__https://github.com/MdIqubal/3DXRayShader_Unity
+
+本人Github網址__https://github.com/z1125411235/3DX-Ray-Shader
+
